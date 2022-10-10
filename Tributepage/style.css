@@ -1,0 +1,53 @@
+* {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+#nav img {
+  width: 300px;
+  height:100px;
+  display: inline-flex; 
+  margin-right: 970px;
+
+}
+#nav h2{
+display: flex;
+float: right;
+color: gold;
+margin-top: 30px;
+}
+.China img {
+  width: 100%;
+  height: 300px;
+}
+.title {
+  font-size: 20px;
+}
+.caption {
+  line-height: 2;
+  margin-bottom: 100px;
+  font-size: 20px;
+  color: gold;
+}
+.senior img {
+  float: left;
+  width: 400x;
+  height: 500px;
+  flex-wrap: wrap;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.link {
+  font-size: 20px;
+  color:aliceblue;
+}
+.audio {
+  float: left;
+  display: block;
+}
+.closing {
+  float: left;
+  font-size: 20px;
+  display: block;
+  color: gold;
+}
